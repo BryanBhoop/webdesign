@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://media.istockphoto.com/vectors/vector-white-background-vector-id1191184417?k=20&m=1191184417&s=612x612&w=0&h=r4jPg1Sb_g6f03gqBL8EBeRadza5vinqzLmNCQbkSOg="); background-repeat:no-repeat; background-size:100%, 100%;
+}
+
+    h1 {
+         color: rgb(77, 76, 76); text-align:justify; font-size: 500%;
+        }
+        h2{ color:slategrey; text-align:center; font-size: 300%;
+        }
+a:visited { colour:grey
+}
+   p1 {font-weight: bold;
+    font-size: 350%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p2 {font-size: 200%;
+    color:blueviolet;
+}
+p4 {font-size: 100%;}
+
+h5 {font-style: italic;
+font-size: 300%;
+text-align: center;}
+
+p4 {size: 260%;
+color:teal;
+font-family: sans-serif;
+text-align: center;
+}
+
+p5 {size: 260%;
+    color:teal;
+    font-family: sans-serif;
+    text-align: center;
+    }
